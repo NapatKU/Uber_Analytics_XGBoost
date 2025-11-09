@@ -7,7 +7,8 @@ This project focuses on analyzing Uber ride booking data and building a **classi
 ## 📌 Dataset
 The dataset used in this project is sourced from Kaggle and contains **150,000 booking records** with **21 features** representing customer behavior, driver information, ride conditions, timestamps, vehicle types, payment methods, and booking statuses.  
 The data reflects the full booking pipeline from request to completion or cancellation.  
-**Source:** Uber Ride Analytics Dashboard dataset :contentReference[oaicite:0]{index=0}
+
+**Source:** [Uber Ride Analytics Dashboard Dataset](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
 
 ---
 
